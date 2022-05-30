@@ -1,24 +1,10 @@
-# README
+# FLICKR API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+I made this Project to learn how to use APIs in Rails.
+Its an App where you can enter a UserId and you will get the users flickr photos as a result.
+Entering no Id will result in showing the latest uploaded photos on flickr.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Demo
+Try it [here.](https://limitless-temple-54188.herokuapp.com/) <br/>
+note: it takes about 30 seconds for heroku to load the webapp.
